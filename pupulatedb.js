@@ -1,5 +1,7 @@
 #! /usr/bin/env node
-
+/*
+Credit for https://github.com/mdn/express-locallibrary-tutorial/tree/2a5c3e0b0823d4e33970d8d7fe9322dd49da303f
+ * /
 console.log('This script populates some test books, authors, genres and bookinstances to your database. Specified database as argument - e.g.: populatedb mongodb+srv://cooluser:coolpassword@cluster0.a9azn.mongodb.net/local_library?retryWrites=true');
 
 // Get arguments passed on command line
